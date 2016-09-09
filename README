@@ -1,0 +1,13 @@
+uTrade HFT DMA FIX API
+
+Version 0.0.1
+
+URL:- http://www.utradesolutions.com/
+
+Introduction : 
+	The document gives an overview of uTrade HFT DMA FIX API using standard FIX 4.2 protocol. FIX8 library has been used to optimize order routing and reduce execution latency for fix orders.
+
+COPYRIGHT
+ (C) 2013 uTrade Solutions Pvt Ltd. All Rights reserved.
+
+FIX Version Supported : FIX 4.2
